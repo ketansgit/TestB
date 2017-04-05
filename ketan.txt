@@ -6,8 +6,21 @@ this is good
 =========================
 	Added
 =========================
+function test1(){ return "test1"}
+
 
 
 Hello, How are you?
 From Spinx
+
+this is avdhesh changes
+
+this is avdhesh changes by avdhesh 2:19
+
+
+
+function test()
+{
+	return "test";
+}
 
