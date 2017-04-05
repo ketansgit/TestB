@@ -7,3 +7,8 @@ this is good
 	Added
 =========================
 
+
+function test()
+{
+	return "test";
+}
