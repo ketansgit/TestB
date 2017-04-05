@@ -6,6 +6,8 @@ this is good
 =========================
 	Added
 =========================
+function test1(){ return "test1"}
+
 
 
 function test()
